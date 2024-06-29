@@ -1,0 +1,8 @@
+name = input("Your name?")
+email = input("Your email?")
+age_str = input("Your age?")
+age = int(age_str)
+height_str = input("Your height?")
+height = float(height_str)
+is_active_str = input("Is active?")
+is_active = bool(is_active_str)
